@@ -1,2 +1,3 @@
 another test case added
 and another acceptance criteria added
+Verify - all existing functions works fine
